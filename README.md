@@ -12,17 +12,20 @@ Este projeto é uma ferramenta de linha de comando (CLI) feita com **Node.js** p
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 
-2. Instale as dependências
+### 2. Instale as dependências
+
 bash
 Copiar
 Editar
 npm install
-3. Torne o script executável (opcional em Linux/Mac)
+
+### 3. Torne o script executável (opcional em Linux/Mac)
 bash
 Copiar
 Editar
 chmod +x index.js
-4. Execute o CLI
+
+### 4. Execute o CLI
 bash
 Copiar
 Editar
@@ -33,7 +36,11 @@ bash
 Copiar
 Editar
 node index.js 01001000
-🧪 Exemplo de Saída
+
+---
+
+# 🧪 Exemplo de Saída
+
 bash
 Copiar
 Editar
@@ -51,7 +58,7 @@ dotenv
 
 ViaCEP API
 
-📁 Estrutura do Projeto
+### 📁 Estrutura do Projeto
 pgsql
 Copiar
 Editar
@@ -66,8 +73,8 @@ Editar
 🔒 .env (opcional)
 Se você precisar de variáveis de ambiente, adicione-as ao .env. Este arquivo deve estar listado no .gitignore.
 
-📝 Licença
+### 📝 Licença
 Este projeto está sob a licença MIT.
 
-🙋‍♀️ Feito por
+# 🙋‍♀️ Feito por
 Ariana Alves 💜
